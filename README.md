@@ -4,7 +4,7 @@ Patent Cooperation Treaty
 PCT-Receiving-Offices
 =====================
 
-List of Receiving Offices of the Patent Cooperation Treaty.
+List of Receiving Offices of the Patent Cooperation Treaty, in editable form.
 
 The most up-to-date list of Receiving Offices may be found in the PCT Fee Table section of the latest PCT Newsletter, at http://www.wipo.int/pct/en/newslett/ (it is difficult to extract this data into plain text, hence this list).
 
@@ -21,4 +21,4 @@ Please use this list at your own risk. We will not be liable for any damage aris
 PCT-Contracting-States
 ======================
 
-List of PCT Contracting States.
+List of PCT Contracting States, in editable form.
