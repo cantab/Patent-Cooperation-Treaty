@@ -16,7 +16,7 @@ A further example is the International Bureau of WIPO itself. The IB is a Receiv
 
 Furthermore, not all patent offices of PCT Contracting States act as Receiving Offices. For example, the United Arab Emirates (AE) is a PCT Contracting State, but the patent office of the UAE is not a Receiving Office (PCT applications by UAE nationals/residents are filed at the International Bureau of WIPO).
 
-Please use this list at your own risk. We will not be liable for any damage arising as a result of the use of this data.
+For an example of how this list may be used, please see the [Cantab LLP PCT Singapore National Phase Guide](http://www.cantab-ip.com/singaporenationalphase.html).
 
 ##PCT-Contracting-States
 
