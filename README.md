@@ -4,7 +4,9 @@
 
 This is a list of Receiving Offices of the Patent Cooperation Treaty, in editable form. This list is surprisingly difficult to obtain from official sources. Even WIPO was unable to give me a list of Receiving Offices of the PCT.
 
-The most up-to-date list of Receiving Offices may be found in the PCT Fee Table section of the latest [PCT Newsletter](http://www.wipo.int/pct/en/newslett/) (but it is difficult to extract this data into plain text).
+The most up-to-date list of Receiving Offices may be found in the PCT Fee Table section of the latest [PCT Newsletter](http://www.wipo.int/pct/en/newslett/). The [PCT Applicant's Guide](http://www.wipo.int/pct/en/appguide/index.jsp) also indicates, for each Office of a Contracting State or Regional Organisation, whether it acts as a Receiving Office.
+
+However, it is quite difficult to extract a list of Offices which are Receiving Offices from these sources. We hope you will find the text file simply listing the names of the Receiving Offices will be useful.
 
 The list of PCT Receiving Offices is NOT the same as the list of [PCT Contracting States](https://github.com/Cantab/Patent-Cooperation-Treaty/blob/master/PCT%20Contracting%20States.txt).
 
