@@ -18,6 +18,10 @@ Furthermore, not all patent offices of PCT Contracting States act as Receiving O
 
 For an example of how this list may be used, please see the [Cantab LLP PCT Singapore National Phase Guide](http://www.cantab-ip.com/singaporenationalphase.html).
 
+##PCT-Receiving-Offices-ISO
+
+As above, but countries set out as two letter ISO codes.
+
 ##PCT-Contracting-States
 
 This is a list of PCT Contracting States, in editable form.
